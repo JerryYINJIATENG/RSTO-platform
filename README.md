@@ -1,5 +1,4 @@
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
-
+![Alternate image text](https://someurl/imagelocation/image.png)
 # Real-Time Rolling Stock and Timetable Rescheduling in Urban Rail Transit Systems
 
 The software and data in this repository are a snapshot of the software and data
