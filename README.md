@@ -1,4 +1,3 @@
-![Alternate image text](https://someurl/imagelocation/image.png)
 # Real-Time Rolling Stock and Timetable Rescheduling in Urban Rail Transit Systems
 
 The software and data in this repository are a snapshot of the software and data
@@ -12,6 +11,8 @@ For these experiments, the following requirements should be satisfied
 * a PC with at least 16 GB RAM
 * C++ run on Windows 10 (with SDK higher than 10.0.150630.0)
 * CPLEX 12.80 Academic version.
+
+![Algorithm 2. Improved label setting algorithm]([https://someurl/imagelocation/image.png](https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/LabelCorrecting.jpg))
 
 ## Results
 The results for each instance, involving the fleet size of rolling stocks, ATT (unit: second), value of objective function, CPU time and optimality gap, are involved in [results](results) by "NO BRS", "Randomly solution", "LSM" and "ILM", as presented in Table 11 in the paper.
