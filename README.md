@@ -12,7 +12,7 @@ For these experiments, the following requirements should be satisfied
 * C++ run on Windows 10 (with SDK higher than 10.0.150630.0)
 * CPLEX 12.80 Academic version.
 
-![Algorithm 2. Improved label setting algorithm]([https://someurl/imagelocation/image.png](https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/LabelCorrecting.jpg))
+![Algorithm 2. Improved label setting algorithm]([https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/LabelCorrecting.jpg])
 
 ## Results
 The results for each instance, involving the fleet size of rolling stocks, ATT (unit: second), value of objective function, CPU time and optimality gap, are involved in [results](results) by "NO BRS", "Randomly solution", "LSM" and "ILM", as presented in Table 11 in the paper.
