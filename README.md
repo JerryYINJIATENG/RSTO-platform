@@ -12,10 +12,16 @@ For these experiments, the following requirements should be satisfied
 * C++ run on Windows 10 (with SDK higher than 10.0.150630.0)
 * CPLEX 12.80 Academic version.
 
+## Pseudocodes of BRC algorithm and ILS algorithm
+
 ![Algorithm 1. BRC algorithm to compute the optimal cost of big arcs](https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/ILS.png)
 
 
 ![Algorithm 2. Improved label setting algorithm](https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/LabelCorrecting.jpg)
+
+## Parameters in the experiments
+
+The basic operational parameters, involving running time between two stations, dwelling time at the platforms, minimum turnaround time, safety headway time  and slack time, etc.
 
 ## Results
 We test the performance improvement of different acceleration schemes, i.e., our proposed big-arc strategy, the greedy-based column generation (termed as S1), and bi-directional search (termed as S2), in which the latter heuristics are widely used in the literature. This allows us to compare eight approaches for solving the instances: no-acceleration (NS), only S1, only S2, S1 plus S2 (S1+S2), both with and without big-arcs. The following table represents the details results for the constructed 30 instances.
