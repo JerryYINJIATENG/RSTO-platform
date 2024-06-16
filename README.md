@@ -20,5 +20,6 @@ For these experiments, the following requirements should be satisfied
 ## Results
 The results for each instance, involving the fleet size of rolling stocks, ATT (unit: second), value of objective function, CPU time and optimality gap, are involved in [results](results) by "NO BRS", "Randomly solution", "LSM" and "ILM", as presented in Table 11 in the paper.
 
-| Instance|NS|S1|S2|S1+S2|NS|S1|S2|S1+S2|
+|Instance|NS|S1|S2|S1+S2|NS|S1|S2|S1+S2|
+|  ----  | ----  |----  |----  |----  |----  |----  |----  |----  |
 |I_1|4.8|3.98|2.45|2.43|4.57|4.50|1.90|1.88|
