@@ -22,4 +22,5 @@ The results for each instance, involving the fleet size of rolling stocks, ATT (
 
 |Instance|NS|S1|S2|S1+S2|NS|S1|S2|S1+S2|
 |  ----  | ----  |----  |----  |----  |----  |----  |----  |----  |
+| |Without big-arcs| |  | |With big-arcs| | | |
 |I_1|4.8|3.98|2.45|2.43|4.57|4.50|1.90|1.88|
