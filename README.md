@@ -19,6 +19,15 @@ For these experiments, the following requirements should be satisfied
 
 ![Algorithm 2. Improved label setting algorithm](https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/LabelCorrecting.jpg)
 
+## Illustrative examples to compute BAM model with different dual costs
+
+Example 1:
+
+Example 2:
+
+Example 3:
+
+
 ## Parameters in the experiments
 
 The basic operational parameters, involving running time between two stations, dwelling time at the platforms, minimum turnaround time, safety headway time  and slack time, etc.
