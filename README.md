@@ -38,8 +38,8 @@ The basic operational parameters, involving running time between two stations, d
 * Turnaround time $T_{turn}$: 150 (unit: s)
 * Slack travel time $\epsilon_e$: 10 (unit: s)
 * Planned travel time of each section (peak-hour period): 200, 150, 150, 120, 140, 150, 110, 100, 100, 120, 60, 120, 110, 90, 90, 90, 110, 120, 90, 120, 140, 120 (unit: s)
-  |Section|GY-GC|
-  |----|----|
+  |Section|GY-GC|GY-GC|GY-GC|GY-GC|GY-GC|GY-GC|GY-GC|GY-GC|GY-GC|GY-GC|GY-GC|GY-GC|GY-GC|GY-GC|
+  |----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
   ||33|
 * Planned dwelling time of each station (peak-hour period): 20, 30, 30, 25, 35, 40, 35, 45, 50, 30, 27, 50, 44, 26, 28, 30, 45, 45, 30, 45, 45, 30, 20 (unit: s)
 * Planned travel time of each section (off-peak-hour period): 210, 160, 150, 120, 150, 150, 120, 100, 100, 120, 70, 120, 110, 90, 90, 100, 110, 120, 90, 120, 140, 130 (unit: s)
