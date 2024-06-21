@@ -32,6 +32,16 @@ Example 3:
 
 The basic operational parameters, involving running time between two stations, dwelling time at the platforms, minimum turnaround time, safety headway time  and slack time, etc.
 
+* Number of stations: 23
+* Number of depots: 2, located at GY station and WS station
+* Minimum headway: 60 (unit: s)
+* Turnaround time: 150 (unit: s)
+* Slack travel time: 10 (unit: s)
+* Planned travel time of each section (peak-hour period): 200, 150, 150, 120, 140, 150, 110, 100, 100, 120, 60, 120, 110, 90, 90, 90, 110, 120, 90, 120, 140, 120 (unit: s)
+* Planned dwelling time of each station (peak-hour period): 20, 30, 30, 25, 35, 40, 35, 45, 50, 30, 27, 50, 44, 26, 28, 30, 45, 45, 30, 45, 45, 30, 20 (unit: s)
+* Planned travel time of each section (off-peak-hour period): 210, 160, 150, 120, 150, 150, 120, 100, 100, 120, 70, 120, 110, 90, 90, 100, 110, 120, 90, 120, 140, 130 (unit: s)
+* Planned dwelling time of each station (off-peak-hour period): 20, 30, 30, 25, 35, 35, 30, 35, 40, 30, 27, 40, 44, 26, 28, 30, 45, 30, 30, 30, 30, 30, 20 (unit: s)
+
 ## Results
 We test the performance improvement of different acceleration schemes, i.e., our proposed big-arc strategy, the greedy-based column generation (termed as S1), and bi-directional search (termed as S2), in which the latter heuristics are widely used in the literature. This allows us to compare eight approaches for solving the instances: no-acceleration (NS), only S1, only S2, S1 plus S2 (S1+S2), both with and without big-arcs. The following table represents the details results for the constructed 30 instances.
 
