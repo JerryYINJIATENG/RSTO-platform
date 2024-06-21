@@ -9,7 +9,7 @@ This repository includes illustrative examples, pseudocodes of the algorithm, so
 ## Requirements
 For these experiments, the following requirements should be satisfied
 * a PC with at least 16 GB RAM
-* C++ run on Windows 10 (with SDK higher than 10.0.150630.0)
+* C# run on Windows 10 (with SDK higher than 10.0.150630.0)
 * CPLEX 12.80 Academic version.
 
 ## Pseudocodes of BRC algorithm and ILS algorithm
