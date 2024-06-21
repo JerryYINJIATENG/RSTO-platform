@@ -32,7 +32,7 @@ Example 3:
 
 The basic operational parameters, involving running time between two stations, dwelling time at the platforms, minimum turnaround time, safety headway time  and slack time, etc.
 
-* Number of stations: 23
+* Number of stations $|I|$: 23
 * Number of depots: 2, located at GY station and WS station
 * Minimum headway: 60 (unit: s)
 * Turnaround time: 150 (unit: s)
