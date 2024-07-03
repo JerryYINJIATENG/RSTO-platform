@@ -28,11 +28,13 @@ In the example, we consider only one train, and the following input:
 Consider that the event time for the beginning/ending of this big arc is: $t_{e_0}=3$, $t_{e_3}=10$. Now let’s consider the calculation of optimal values of $t_{e_1}$ and  $t_{e_2}$ 	according to the values of $q_e$ using the propositions specified in the paper.
 
 Example 1:
-
+![Example1](https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/example1.png)
 
 Example 2:
+![Example2](https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/example2.png)
 
 Example 3:
+![Example3](https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/example3.png)
 
 
 ## Parameters in the experiments
