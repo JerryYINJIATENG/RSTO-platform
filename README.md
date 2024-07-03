@@ -25,11 +25,10 @@ Consider the following example: The network involves four stations indexed by 0 
 In the example, we consider only one train, and the following input:
 ![Input](https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/input.png)
 
-
-
-* Number of stations $|I|$: 23
+Consider that the event time for the beginning/ending of this big arc is: $t_{e_0}=3$, $t_{e_3}=10$. Now let’s consider the calculation of optimal values of $t_{e_1}$ and  $t_{e_2}$ 	according to the values of $q_e$ using the propositions specified in the paper.
 
 Example 1:
+
 
 Example 2:
 
