@@ -23,6 +23,7 @@ For these experiments, the following requirements should be satisfied
 Consider the following example: The network involves four stations indexed by 0 to 3; the planned running times are 2 (between station 0 and station 1), 3 (between station 1 and station 2) and 2 (between station 2 and station 3), respectively; and the slack time is 1 for each section. 
 
 In the example, we consider only one train, and the following input:
+![Input](https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/input.png)
 
 
 
