@@ -26,6 +26,8 @@ In the example, we consider only one train, and the following input:
 *Planned train schedule: $\hat{t}_{e_0}=0$, $\hat{t}_{e_1}=2$, $\hat{t}_{e_2}=5$, $\hat{t}_{e_3}=7$, 
 *Latest allowed schedule:
 
+* Number of stations $|I|$: 23
+
 Example 1:
 
 Example 2:
