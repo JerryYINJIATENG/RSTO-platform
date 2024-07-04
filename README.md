@@ -41,6 +41,7 @@ Example 3:
 
 There are a total of 23 stations in Beijing metro line 1. Among these stations, there are six stations and two depots that allow trains to turn their directions. The names of these stations are BJ, YQL, GZF, XD, WFJ and GM. The names of the tweo depots are GY deopt and WS depot.
 
+![Line1](https://github.com/JerryYINJIATENG/RSTO-platform/blob/master/Materials/Line1Layout.jpg)
 
 The basic operational parameters, involving running time between two stations, dwelling time at the platforms, minimum turnaround time, safety headway time  and slack time, etc.
 
