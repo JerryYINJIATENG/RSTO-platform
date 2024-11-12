@@ -79,36 +79,36 @@ The basic operational parameters, involving running time between two stations, d
 |Instance|Number of canceled events|Total delay time ($\times 10^3$)|Computation time (second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Total number of events|
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | | Strategy 1| | |Strategy 2| | |Strategy 3| | |Strategy 4| | | |
-|I_1| | | || | || | || | | |
-|I_2| | | || | || | || | | |
-|I_3| | | || | || | || | | |
-|I_4| | | || | || | || | | |
-|I_5| | | || | || | || | | |
-|I_6| | | || | || | || | | |
-|I_7| | | || | || | || | | |
-|I_8| | | || | || | || | | |
-|I_9| | | || | || | || | | |
-|I_10| | | || | || | || | | |
-|I_11| | | || | || | || | | |
-|I_12| | | || | || | || | | |
-|I_13| | | || | || | || | | |
-|I_14| | | || | || | || | | |
-|I_15| | | || | || | || | | |
-|I_16| | | || | || | || | | |
-|I_17| | | || | || | || | | |
-|I_18| | | || | || | || | | |
-|I_19| | | || | || | || | | |
-|I_20| | | || | || | || | | |
-|I_21| | | || | || | || | | |
-|I_22| | | || | || | || | | |
-|I_23| | | || | || | || | | |
-|I_24| | | || | || | || | | |
-|I_25| | | || | || | || | | |
-|I_26| | | || | || | || | | |
-|I_27| | | || | || | || | | |
-|I_28| | | || | || | || | | |
-|I_29| | | || | || | || | | |
-|I_30| | | || | || | || | | |
+|I_1| 398 | | || | || | || | | |
+|I_2| 102 | | || | || | || | | |
+|I_3| 128 | | || | || | || | | |
+|I_4|137 | | || | || | || | | |
+|I_5|252 | | || | || | || | | |
+|I_6| 398 | | || | || | || | | |
+|I_7| 102 | | || | || | || | | |
+|I_8| 398 | | || | || | || | | |
+|I_9| 110 | | || | || | || | | |
+|I_10| 192 | | || | || | || | | |
+|I_11| 1104 | | || | || | || | | |
+|I_12| 897 | | || | || | || | | |
+|I_13| 674 | | || | || | || | | |
+|I_14| 889 | | || | || | || | | |
+|I_15| 1101 | | || | || | || | | |
+|I_16| 897 | | || | || | || | | |
+|I_17| 1004 | | || | || | || | | |
+|I_18| 897 | | || | || | || | | |
+|I_19| 1104 | | || | || | || | | |
+|I_20| 923 | | || | || | || | | |
+|I_21| 1360 | | || | || | || | | |
+|I_22| 1660 | | || | || | || | | |
+|I_23| 1059 | | || | || | || | | |
+|I_24| 1658 | | || | || | || | | |
+|I_25| 1274 | | || | || | || | | |
+|I_26| 1358 | | || | || | || | | |
+|I_27| 1460 | | || | || | || | | |
+|I_28| 978 | | || | || | || | | |
+|I_29| 1327  | | || | || | || | | |
+|I_30| 878 | | || | || | || | | |
 
 We test the performance improvement of different acceleration schemes, i.e., our proposed big-arc strategy, the greedy-based column generation (termed as S1), and bi-directional search (termed as S2), in which the latter heuristics are widely used in the literature. This allows us to compare eight approaches for solving the instances: no-acceleration (NS), only S1, only S2, S1 plus S2 (S1+S2), both with and without big-arcs. The following table represents the details results for the constructed 30 instances.
 
