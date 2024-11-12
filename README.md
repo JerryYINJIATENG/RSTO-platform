@@ -76,7 +76,8 @@ The basic operational parameters, involving running time between two stations, d
   
 ## Results
 
-* Disaggrated results for Table 3 (Average performance of four rescheduling strategies over the 30 instances)
+Disaggrated results for Table 3 (Average performance of four rescheduling strategies over the 30 instances)
+
 |Instance|Number of canceled events|Total delay time ($\times 10^3$)|Computation time (second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Total number of events|
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | | Strategy 1| | |Strategy 2| | |Strategy 3| | |Strategy 4| | | |
