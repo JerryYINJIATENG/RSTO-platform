@@ -81,7 +81,7 @@ Disaggrated results for Table 3 (Average performance of four rescheduling strate
 |Instance|Number of canceled events|Total delay time ($\times 10^3$)|Computation time (second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Total number of events|
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | | Strategy 1| | |Strategy 2| | |Strategy 3| | |Strategy 4| | | |
-|I_1| 398 | 94.2 | 1.88| 298 | 75.8 | 2.52 | 202 | 86.3 | 3.55  | | | | |
+|I_1| 398 | 94.2 | 1.88| 298 | 75.8 | 2.52 | 202 | 86.3 | 3.55  | 178 | 70.4 | 3.58 | 829 |
 |I_2| 102 | 117.2 | 2.13 | 94 | 90.1 | 2.34 | 78| 102.4 | 3.92 || | | |
 |I_3| 128 | 121.2 | 1.08 | 122 | 94.4 | 2.49 | 100 | 111.3 | 2.78 || | | |
 |I_4|137 | 122.3 | 1.98 | 135| 90.2 | 2.20 | 104 | 149.8 | 2.89 || | | |
