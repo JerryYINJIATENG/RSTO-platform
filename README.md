@@ -76,7 +76,7 @@ The basic operational parameters, involving running time between two stations, d
   
 ## Results
 
-|Instance|Number of canceled events|Total delay time ($\times 10^3$)|Computation time|Number of canceled events|Total delay time|Computation time|Number of canceled events|Total delay time|Computation time|Number of canceled events|Total delay time|Computation time|Total number of events|
+|Instance|Number of canceled events|Total delay time ($\times 10^3$)|Computation time (second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Total number of events|
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | | Strategy 1| | |Strategy 2| | |Strategy 3| | |Strategy 4| | | |
 
