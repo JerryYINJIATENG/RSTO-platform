@@ -81,35 +81,7 @@ The basic operational parameters, involving running time between two stations, d
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | | Strategy 1| | |Strategy 2| | |Strategy 3| | |Strategy 4| | | |
 |I_1| 398 | 94.2 | 1.88|| | || | || | | |
-|I_2| 102 | 117.2 | 2.13 || | || | || | | |
-|I_3| 128 | 121.2 | 1.08 || | || | || | | |
-|I_4|137 | 122.3 | 1.98 || | || | || | | |
-|I_5|252 | 105.8 | 2.21 || | || | || | | |
-|I_6| 398 | 96.2 | 1.90 || | || | || | | |
-|I_7| 102 | 117.8 | 2.13 || | || | || | | |
-|I_8| 398 | 94.2 | 1.10 || | || | || | | |
-|I_9| 110 | 124.1 | 1.98 || | || | || | | |
-|I_10| 192 | 116.8 | 2.24 || | || | || | | |
-|I_11| 1104 | 84.6 | 8.60 || | || | || | | |
-|I_12| 897 | 91.3 | 1.75 || | || | || | | |
-|I_13| 674 | 131.6 | 37.3 || | || | || | | |
-|I_14| 889 | 117.1 | 55.3 || | || | || | | |
-|I_15| 1101 | 99.9 |20.6 || | || | || | | |
-|I_16| 897 | 86.3 | 28.5 || | || | || | | |
-|I_17| 1004 | 98.6 | 30.3 || | || | || | | |
-|I_18| 897 | 91.3 | 60.2 || | || | || | | |
-|I_19| 1104 | 84.6 | 50.4 || | || | || | | |
-|I_20| 923 | 111.7 | 68.3 || | || | || | | |
-|I_21| 1360 | 168 | 45.0 || | || | || | | |
-|I_22| 1660 | 138 | 32.8 || | || | || | | |
-|I_23| 1059 | 93.1 | 180.0 || | || | || | | |
-|I_24| 1658 | 175.2 | 115.3 || | || | || | | |
-|I_25| 1274 | 104.6 | 154.2 || | || | || | | |
-|I_26| 1358 | 176.2 | 32.8 || | || | || | | |
-|I_27| 1460 | 143 | 180.0 || | || | || | | |
-|I_28| 978 | 108.2 | 48.3 || | || | || | | |
-|I_29| 1327  | 153.3 | 87.6 || | || | || | | |
-|I_30| 878 | 156.2 | 49.9 || | || | || | | |
+
 
 We test the performance improvement of different acceleration schemes, i.e., our proposed big-arc strategy, the greedy-based column generation (termed as S1), and bi-directional search (termed as S2), in which the latter heuristics are widely used in the literature. This allows us to compare eight approaches for solving the instances: no-acceleration (NS), only S1, only S2, S1 plus S2 (S1+S2), both with and without big-arcs. The following table represents the details results for the constructed 30 instances.
 
