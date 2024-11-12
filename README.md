@@ -76,7 +76,6 @@ The basic operational parameters, involving running time between two stations, d
   
 ## Results
 
-* Planned dwelling time of each station (off-peak-hour period): 20, 30, 30, 25, 35, 35, 30, 35, 40, 30, 27, 40, 44, 26, 28, 30, 45, 30, 30, 30, 30, 30, 20 (unit: s)
 |Instance|Number of canceled events|Total delay time|Computation time|Number of canceled events|Total delay time|Computation time|Number of canceled events|Total delay time|Computation time|Number of canceled events|Total delay time|Computation time|Total number of events|
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 
