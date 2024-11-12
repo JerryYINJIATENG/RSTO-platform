@@ -80,7 +80,7 @@ The basic operational parameters, involving running time between two stations, d
 |Instance|Number of canceled events|Total delay time ($\times 10^3$)|Computation time (second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Number of canceled events|Total delay time ($\times 10^3$)|Computation time(second)|Total number of events|
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | | Strategy 1| | |Strategy 2| | |Strategy 3| | |Strategy 4| | | |
-|I_1| 398 | 94.2 | 1.88|| | || | || | | |
+|I_1| 398 | 94.2 | 1.88| | | | | | | | | | |
 
 
 We test the performance improvement of different acceleration schemes, i.e., our proposed big-arc strategy, the greedy-based column generation (termed as S1), and bi-directional search (termed as S2), in which the latter heuristics are widely used in the literature. This allows us to compare eight approaches for solving the instances: no-acceleration (NS), only S1, only S2, S1 plus S2 (S1+S2), both with and without big-arcs. The following table represents the details results for the constructed 30 instances.
