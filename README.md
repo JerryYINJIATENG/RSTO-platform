@@ -114,6 +114,8 @@ Disaggrated results for Table 3 (Average performance of four rescheduling strate
 |I_30| 878 | 156.2 | 49.9 | 808 | 108.4 | 65.9 | 434 | 125.4| 55.8 |434| 89.4| 70.9| 2452|
 |Average| 823.97 | 118.26 | 45.53 |745.67 | 86.33 | 52.1 | 424.18 |108.47 | 47.09 | 409.42 | 79.63 | 54.63| |
 
+We test the performance of PRST and R-PRST, where the latter method relaxes the hard constraints on the ending inventories of rolling stocks, but with a penality function. Table 7 in the main text reports results for six instances, and we here refer to Materials/P-RST-VS-RST.xlsx for the detailed results for the remaining 24 instances.
+
 
 We test the performance improvement of different acceleration schemes, i.e., our proposed big-arc strategy, the greedy-based column generation (termed as S1), and bi-directional search (termed as S2), in which the latter heuristics are widely used in the literature. This allows us to compare eight approaches for solving the instances: no-acceleration (NS), only S1, only S2, S1 plus S2 (S1+S2), both with and without big-arcs. The following table represents the details results for the constructed 30 instances.
 
